@@ -1,2 +1,1 @@
-# FutureIntern_PD_02
-Number Guessing Game: A fun game that challenges users to guess a number with interactive feedback and attempt tracking, also built with Tkinter.
+I created a number guessing game using Python and Tkinter. The project involved challenging the player to guess a number between 1 and 99 within a limited number of attempts. By developing this game, I showcased my skills in Python programming and GUI development with Tkinter.
